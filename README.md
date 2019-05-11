@@ -9,8 +9,6 @@ NSD.Libはファミリーコンピューターとその互換機で、音楽や�
 - http://shaw.la.coocan.jp/nsdl/
 - https://github.com/Shaw02/nsdlib
 
-## 詳細
+## 索引
 
-- [NSD.Libの環境構築](環境構築.md)
-- [NSD.Libでの楽曲作成手順](楽曲作成.md)
-- [N163使用楽曲作成](N163.md)
+- [索引](docs/index.md)
